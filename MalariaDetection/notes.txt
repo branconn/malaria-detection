@@ -1,0 +1,10 @@
+Overview:
+    define transforms for train test and validation sets (resize, crop, totensor, normalize, etc.)
+    datasets.ImageFolder to set uop training datasets
+    percentage splits of training data
+    shuffle randomly
+    create dataloaders for train, val, test
+    training loop
+
+Week 1 goals: data obj, data loader, transforms
+Week 2 goals: 
